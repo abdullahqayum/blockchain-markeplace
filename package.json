@@ -1,0 +1,22 @@
+{
+  "name": "blockhcain-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahqayum/blockchain-markeplace.git"
+  },
+  "author": "Abdullah Al Qayum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahqayum/blockchain-markeplace/issues"
+  },
+  "homepage": "https://github.com/abdullahqayum/blockchain-markeplace#readme"
+}
