@@ -17,7 +17,8 @@ There will be list of stores on a central marketplace where shoppers can purchas
             3. Restricting Access
             4. State Machine Pattern
             5. Pull over push Payment
-      3. Have security features to protect against at least two attack vectors outlined in Module 9 Lesson 3
+      3. Have security features to protect against at least two attack vectors outlined in Module 9 Lesson 3. Please check
+       [avoiding common attacks](avoiding_common_attacks.md)
             1. SaftMath to prevent underflow or overflow 
             2. Prevention of Re entrancy attack
             3. Avoiding tx.Origin
