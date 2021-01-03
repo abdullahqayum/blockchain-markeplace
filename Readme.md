@@ -31,12 +31,13 @@ There will be list of stores on a central marketplace where shoppers can purchas
 2. Frontend should work with web3.js / ethers.js, Infura and MetaMask to:
       1. Recognize and display current MM account
       2. Sign transactions that change a deployed contract’s state using MetaMask
-      3. Reflect the successful state change in the UI
+      3. Reflect the successful state change in the UI [Details Application Details](user_stories.md)
+     
      
 #### Test Requirements
-* Have at least 5 tests for each smart contract
+* Have at least 5 tests for each smart contract  [Testing Considerations](testing_requirements.md)
 #### Deployment to TestNet
-* Smart contract should be deployed to a testnet
+* Smart contract should be deployed to a testnet [Deployment Details in Ropsten](deployed_addresses.txt.md)
 #### Additional 
 * IPFS to store Product Image and Seller logo
 
