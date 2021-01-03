@@ -11,6 +11,7 @@ There will be list of stores on a central marketplace where shoppers can purchas
 2. Smart contracts with the following requirements
       1. Properly Docuemented
       2. Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1
+      For Details Please check design_pattern_decisions[design_pattern_decisions.md ]
             1. Circuit Breaker
             2. Fail Early Fail loud
             3. Restricting Access
